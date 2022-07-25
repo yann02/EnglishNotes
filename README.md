@@ -11,8 +11,8 @@ My English study notes.
 ### What are the sentence patterns?
 - SV
 - SVO
-- SVC:Subject + Linking Verb + Subject Complement
-- SVOO:Subject + verb + indirect object + direct object
+- SVC
+- SVOO
 - SVOC:Subject + Verb + Object + Object Complement
 
 #### SV
@@ -41,7 +41,8 @@ The children played a game.
 Model:Subject + transitive verb + object + adverbial
 
 #### SVC
-Model:Subject + Linking verb + subject complement
+Model:Subject + Linking verb + subject complement  
+Describe:Subject + linking verb + more info about subject  
 Linking verbs:  
 - appear
 - be  
@@ -53,3 +54,19 @@ Linking verbs:
 - taste
 
 Complement:usually a noun phrase or adjective phrase,but adverbs and prepositional phrases also fit this pattern.
+
+##### SVCC
+Model:Subject + Linking verb + subject complement + adjective complement  
+adjective complement:usually prepositional phrases.  
+Example:
+She was excited about the party.  
+
+#### SVOO
+Model:Subject + verb + indirect object + direct object
+Indirect object:often follow a preposition
+- subject + verb +indirect object + direct object
+- subject + verb + direct object + prectional + indirect object
+
+##### SV00A
+Example:
+We showed our cousins a really good time last weekend.
