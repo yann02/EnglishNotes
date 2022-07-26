@@ -16,25 +16,25 @@ My English study notes.
 - SVOC:Subject + Verb + Object + Object Complement
 
 #### SV
-Model:Subject + Intransitive Verb  
-verb:Express an action or a state  
+Model:Subject + Intransitive Verb   
+verb:Express an action or a state   
 Example:  
-1.We relaxed.
-2.I haven't been practicing.
-3.The children are playing.
+1. We relaxed.  
+2. I haven't been practicing.  
+3. The children are playing.
 
 ##### [A]SV[A]
-Model:Subject + intransitive verb + adverbial
+Model:Subject + intransitive verb + adverbial  
 adverbial:Adds information(Where?、When?、Why?、How? etc.)  
-当存在多个adverbial时，排列顺序如下:
-| Manner
-| Place
-↓ time
+当存在多个adverbial时，排列顺序如下:  
+| Manner  
+| Place  
+↓ time  
 
 #### SVO
-Model:Subject + Transitive Verb + Object
-Object:They're anything that behaves like a noun.
-Example:
+Model:Subject + Transitive Verb + Object  
+Object:They're anything that behaves like a noun.  
+Example:  
 The children played a game.
 
 ##### [A]SVO[A]
@@ -62,11 +62,18 @@ Example:
 She was excited about the party.  
 
 #### SVOO
-Model:Subject + verb + indirect object + direct object
-Indirect object:often follow a preposition
+Model:Subject + verb + indirect object + direct object  
+Indirect object:often follow a preposition  
 - subject + verb +indirect object + direct object
 - subject + verb + direct object + prectional + indirect object
 
 ##### SV00A
 Example:
 We showed our cousins a really good time last weekend.
+
+#### SVOC
+Model:subject + verb + object + object complement  
+Example:  
+- I consider that the best trip ever.
+- We consider him family.
+- You make each day special.
