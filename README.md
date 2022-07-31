@@ -64,12 +64,18 @@ She was excited about the party.
 #### SVOO
 Model:Subject + verb + indirect object + direct object  
 Indirect object:often follow a preposition（间接宾语通常跟在介词后面）  
-- subject + verb +indirect object + direct object
-- subject + verb + direct object + prectional + indirect object  
-
+- subject + verb +indirect object + direct object  
   
 Example:  
-I tell **secrets**(direct object) **to**(prectional) **my friends.**(indirect object)
+We showed **our cousins**(indirect object，省略了介词) **a good time**(direct object).  
+> 间接对象往往是接受行为的人。  
+  
+- subject + verb + direct object + prectional + indirect object  
+  
+Example:  
+I tell **secrets**(direct object) **to**(prectional) **my friends.**(indirect object)  
+I sing **songs**(direct object) **for**(prectional) **the children.**(indirect object)  
+> 通常不会把动词和他的直接对象分开。  
 
 ##### SV00A
 Example:
