@@ -69,7 +69,7 @@ Indirect object:often follow a preposition（间接宾语通常跟在介词后�
 
   
 Example:  
-I tell <u>secrets</u> to <u>my friends.</u>
+I tell **secrets**(direct object) **to**(prectional) **my friends.**(indirect object)
 
 ##### SV00A
 Example:
