@@ -65,9 +65,9 @@ She was excited about the party.
 Model:Subject + verb + indirect object + direct object  
 Indirect object:often follow a preposition（间接宾语通常跟在介词后面）  
 - subject + verb +indirect object + direct object
-- subject + verb + direct object + prectional + indirect object
-Example:
-I tell <u>secrets</u>(direct object) to <u>my friends.</u>(indirect object)
+- subject + verb + direct object + prectional + indirect object  
+Example:  
+I tell <u>secrets</u> to <u>my friends.</u>
 
 ##### SV00A
 Example:
