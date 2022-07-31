@@ -13,7 +13,7 @@ My English study notes.
 - SVO
 - SVC
 - SVOO
-- SVOC:Subject + Verb + Object + Object Complement
+- SVOC
 
 #### SV
 Model:Subject + Intransitive Verb   
@@ -63,9 +63,11 @@ She was excited about the party.
 
 #### SVOO
 Model:Subject + verb + indirect object + direct object  
-Indirect object:often follow a preposition  
+Indirect object:often follow a preposition（间接宾语通常跟在介词后面）  
 - subject + verb +indirect object + direct object
 - subject + verb + direct object + prectional + indirect object
+Example:
+I tell <u>secrets</u>(direct object) to <u>my friends.</u>(indirect object)
 
 ##### SV00A
 Example:
