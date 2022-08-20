@@ -6,3 +6,4 @@
 | :--:            | :--:                    | :--:                     | :--:                                                | :--: |
 | reveal          | conceal                 | 揭露                     | 隐匿                                                 | 渐变的过程 |
 | maximum         | minimum                 |                          |                                                     | 
+| couple          | decouple                | 组合                     | 解耦                                                 | 
