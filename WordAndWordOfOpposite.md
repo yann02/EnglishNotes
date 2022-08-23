@@ -8,3 +8,4 @@
 | maximum         | minimum                 |                          |                                                     | 
 | couple          | decouple                | 组合                     | 解耦                                                 | 
 | align           | arrange                 | 对齐方式                  | 摆放                                                | 安卓开发中，跟布局相关的词汇
+| column          | row                     | 列                       | 横行                                                 |
