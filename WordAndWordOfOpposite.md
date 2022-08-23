@@ -7,3 +7,4 @@
 | reveal          | conceal                 | 揭露                     | 隐匿                                                 | 渐变的过程 |
 | maximum         | minimum                 |                          |                                                     | 
 | couple          | decouple                | 组合                     | 解耦                                                 | 
+| align           | arrange                 | 对齐方式                  | 摆放                                                | 安卓开发中，跟布局相关的词汇
