@@ -10,3 +10,4 @@
 | align           | arrange                 | 对齐方式                  | 摆放                                                | 安卓开发中，跟布局相关的词汇
 | column          | row                     | 列                       | 横行                                                 |
 | back            | front                   | 背景                     | 前景                                                 | 描述空间立体
+| forward         | backward                | 向前                     | 后退                                                 | 平面上的前进和后退
