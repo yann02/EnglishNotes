@@ -11,3 +11,4 @@
 | column          | row                     | 列                       | 横行                                                 |
 | back            | front                   | 背景                     | 前景                                                 | 描述空间立体
 | forward         | backward                | 向前                     | 后退                                                 | 平面上的前进和后退
+| increase        | decrease                | 增长                     | 降低                                                 | 常用于排序，升序和降序
