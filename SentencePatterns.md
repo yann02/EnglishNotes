@@ -52,7 +52,7 @@ Linking verbs:
 
 Complement:usually a noun phrase or adjective phrase,but adverbs and prepositional phrases also fit this pattern.
 
-##### SVCC  [:arrow_up:](#what-are-the-sentence-patterns)
+##### SVCC
 Model:Subject + Linking verb + subject complement + adjective complement  
 adjective complement:usually prepositional phrases.  
 Example:
