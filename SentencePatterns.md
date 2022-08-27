@@ -28,7 +28,7 @@ adverbial:Adds information(Where?、When?、Why?、How? etc.)
 | Place  
 ↓ time  
 
-#### SVO
+#### [SVO](#what-are-the-sentence-patterns)
 Model:Subject + Transitive Verb + Object  
 Object:They're anything that behaves like a noun.  
 Example:  
