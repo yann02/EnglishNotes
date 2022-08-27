@@ -9,6 +9,7 @@
 - [SV](#sv)
 - [SVO](#svo)
 - [SVC](#svc)
+  - [SVCC](#svcc)
 - [SVOO](#svoo)
 - [SVOC](#svoc)
 
@@ -52,7 +53,7 @@ Linking verbs:
 
 Complement:usually a noun phrase or adjective phrase,but adverbs and prepositional phrases also fit this pattern.
 
-##### SVCC
+##### [SVCC](#what-are-the-sentence-patterns)
 Model:Subject + Linking verb + subject complement + adjective complement  
 adjective complement:usually prepositional phrases.  
 Example:
