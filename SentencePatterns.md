@@ -37,7 +37,7 @@ The children played a game.
 ##### [A]SVO[A]
 Model:Subject + transitive verb + object + adverbial
 
-#### SVC
+#### [SVC](#what-are-the-sentence-patterns)
 Model:Subject + Linking verb + subject complement  
 Describe:Subject + linking verb + more info about subject  
 Linking verbs:  
@@ -52,13 +52,13 @@ Linking verbs:
 
 Complement:usually a noun phrase or adjective phrase,but adverbs and prepositional phrases also fit this pattern.
 
-##### SVCC
+##### [SVCC](#what-are-the-sentence-patterns)
 Model:Subject + Linking verb + subject complement + adjective complement  
 adjective complement:usually prepositional phrases.  
 Example:
 She was excited about the party.  
 
-#### SVOO
+#### [SVOO](#what-are-the-sentence-patterns)
 Model:Subject + verb + indirect object + direct object  
 - subject + verb +indirect object + direct object  
   
@@ -77,7 +77,7 @@ I sing **songs**(direct object) **for**(prectional) **the children.**(indirect o
 Example:
 We showed our cousins a really good time last weekend.
 
-#### SVOC
+#### [SVOC](#what-are-the-sentence-patterns)
 Model:subject + verb + object + object complement  
 Example:  
 - I consider that the best trip ever.
