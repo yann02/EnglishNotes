@@ -6,11 +6,11 @@
 - To improve your reading comprehension
 
 ### What are the sentence patterns?
-- SV(#sv)
-- SVO(#svo)
-- SVC(#svc)
-- SVOO(#svoo)
-- SVOC(#svoc)
+- [SV](#sv)
+- [SVO](#svo)
+- [SVC](#svc)
+- [SVOO](#svoo)
+- [SVOC](#svoc)
 
 #### SV
 Model:Subject + Intransitive Verb   
