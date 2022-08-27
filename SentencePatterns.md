@@ -28,7 +28,7 @@ adverbial:Adds information(Where?、When?、Why?、How? etc.)
 | Place  
 ↓ time  
 
-#### [SVO](#what-are-the-sentence-patterns)
+#### SVO  [:arrow_up:](#what-are-the-sentence-patterns)
 Model:Subject + Transitive Verb + Object  
 Object:They're anything that behaves like a noun.  
 Example:  
@@ -37,7 +37,7 @@ The children played a game.
 ##### [A]SVO[A]
 Model:Subject + transitive verb + object + adverbial
 
-#### [SVC](#what-are-the-sentence-patterns)
+#### SVC  [:arrow_up:](#what-are-the-sentence-patterns)
 Model:Subject + Linking verb + subject complement  
 Describe:Subject + linking verb + more info about subject  
 Linking verbs:  
@@ -52,13 +52,13 @@ Linking verbs:
 
 Complement:usually a noun phrase or adjective phrase,but adverbs and prepositional phrases also fit this pattern.
 
-##### [SVCC](#what-are-the-sentence-patterns)
+##### SVCC  [:arrow_up:](#what-are-the-sentence-patterns)
 Model:Subject + Linking verb + subject complement + adjective complement  
 adjective complement:usually prepositional phrases.  
 Example:
 She was excited about the party.  
 
-#### [SVOO](#what-are-the-sentence-patterns)
+#### SVOO  [:arrow_up:](#what-are-the-sentence-patterns)
 Model:Subject + verb + indirect object + direct object  
 - subject + verb +indirect object + direct object  
   
@@ -77,7 +77,7 @@ I sing **songs**(direct object) **for**(prectional) **the children.**(indirect o
 Example:
 We showed our cousins a really good time last weekend.
 
-#### SVOC[:arrow_up:](#what-are-the-sentence-patterns)
+#### SVOC  [:arrow_up:](#what-are-the-sentence-patterns)
 Model:subject + verb + object + object complement  
 Example:  
 - I consider that the best trip ever.
