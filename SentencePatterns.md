@@ -77,7 +77,7 @@ I sing **songs**(direct object) **for**(prectional) **the children.**(indirect o
 Example:
 We showed our cousins a really good time last weekend.
 
-#### [SVOC](#what-are-the-sentence-patterns)
+#### SVOC[:arrow_up:](#what-are-the-sentence-patterns)
 Model:subject + verb + object + object complement  
 Example:  
 - I consider that the best trip ever.
