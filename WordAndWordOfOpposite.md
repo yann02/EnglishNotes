@@ -14,3 +14,4 @@
 | increase        | decrease                | 增长                     | 降低                                                 | 常用于排序，升序和降序
 | declarative     | imperative              | 声明式                   | 命令式                                               | compose定义ui：声明试；xml定义ui：命令式
 | expand          | collapse                | 展开                     | 收起                                                 | 动画，展开&收起
+| down            | up                      | 下                       | 上                                                   | 上下关系
