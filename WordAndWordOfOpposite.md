@@ -18,3 +18,4 @@
 | expand          | collapse                | 展开                     | 收起                                                 | 动画，展开&收起
 | down            | up                      | 下                       | 上                                                   | 上下关系
 | enter           | leave                   | 进入                     | 离开                                                 | 进出
+| frontend        | backend                 | 前端                     | 后端                                                 | 编程前后端
