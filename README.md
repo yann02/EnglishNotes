@@ -5,3 +5,5 @@
 
 - [Word And Opposite Word](./WordAndWordOfOpposite.md)
 - [Sentence Patterns](./SentencePatterns.md)
+- [About Prefix](AboutPrefix.md)
+- [About Suffix](AboutSuffix.md)
