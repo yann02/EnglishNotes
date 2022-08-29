@@ -19,3 +19,4 @@
 | down            | up                      | 下                       | 上                                                   | 上下关系
 | enter           | leave                   | 进入                     | 离开                                                 | 进出
 | frontend        | backend                 | 前端                     | 后端                                                 | 编程前后端
+| prefix          | suffix                  | 前缀                     | 后缀                                                 | 单词（字符串）的前缀和后缀
