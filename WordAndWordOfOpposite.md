@@ -19,6 +19,6 @@
 | down            | up                      | 下                       | 上                                                   | 上下关系
 | enter           | leave                   | 进入                     | 离开                                                 | 进出
 | frontend        | backend                 | 前端                     | 后端                                                 | 编程前后端
-| prefix          | suffix                  | 前缀                     | 后缀                                                 | 单词（字符串）的前缀和后缀
+| prefix          | suffix                  | 前缀                     | 后缀                                                 | 单词（字符串）的前缀和后缀，infix：中缀
 | positive        | negative                | 正                       | 负                                                   | 积极和不积极
 | explicit        | implicit                | 显式的                   | 隐式的                                                | 比如，Android Compose数据的传递有显式和隐式的
