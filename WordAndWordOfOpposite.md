@@ -21,4 +21,4 @@
 | frontend        | backend                 | 前端                     | 后端                                                 | 编程前后端
 | prefix          | suffix                  | 前缀                     | 后缀                                                 | 单词（字符串）的前缀和后缀
 | positive        | negative                | 正                       | 负                                                   | 积极和不积极
-| explicit        | implicit                | 显式                     | 隐式                                                  | 比如，数据的传递有显式和隐式的
+| explicit        | implicit                | 显式的                   | 隐式的                                                | 比如，数据的传递有显式和隐式的
