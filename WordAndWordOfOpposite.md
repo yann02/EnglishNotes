@@ -23,3 +23,4 @@
 | positive        | negative                | 正                       | 负                                                   | 积极和不积极
 | explicit        | implicit                | 显式的                   | 隐式的                                                | 比如，Android Compose数据的传递有显式和隐式的
 | vowel           | consonant               | 元音字母                 | 辅音字母                                              | 当一个动词以consonant-vowel-consonant结尾时，他的过去式除了在末尾添加-ed，动词原形的最后一个字母要写两次。如：stop -> stopped
+| more            | less                    | 更多                     | 更少                                                 | phrase：show more / show less
