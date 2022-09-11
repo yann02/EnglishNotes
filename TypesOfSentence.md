@@ -4,3 +4,5 @@
 - Imperative
 - Exclamative
 
+## Sample
+![sample](images/types_of_sentence.png)
