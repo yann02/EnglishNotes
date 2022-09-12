@@ -121,6 +121,7 @@
 | believe          | believable               
 | manage         | manageable
 | predict | predicatable
+| compose | composable
 
 ### [ment](#Suffixs)
 > verb + ment -> abstract noun
