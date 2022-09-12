@@ -32,7 +32,7 @@
 ### tion & sion
 > verb + (tion / sion) -> abstract noun
 
-#### tion
+#### [tion](#Suffixs)
   
 | primitive (v)        | +tion (abstract noun)            
 | :---:             | :---:                 
@@ -55,7 +55,7 @@
 | dedicate | dedication
 | innovate | innovation
 
-#### sion
+#### [sion](#Suffixs)
 
 | primitive (v)        | +sion (abstract noun)            
 | :---:             | :---:                 
@@ -76,7 +76,7 @@
 ### ness & ance & ence
 > adjective + (ness / ance / ence) ->abstract noun
 
-#### ness
+#### [ness](#Suffixs)
 
 | primitive (adj)        | +ness (abstract noun)            
 | :---:             | :---:                 
@@ -88,7 +88,7 @@
 | gentle       | gentleness  
 | happy | happiness
 
-#### ance
+#### [ance](#Suffixs)
 
 | primitive (adj)        | +ance (abstract noun)            
 | :---:             | :---:                 
@@ -98,7 +98,7 @@
 | important         | importance               
 
 
-#### ence
+#### [ence](#Suffixs)
 
 | primitive (adj)        | +ence (abstract noun)            
 | :---:             | :---:                 
@@ -108,7 +108,7 @@
 | magnificent         | magnificence
 
 
-### able
+### [able](#Suffixs)
 > verb + able -> adjective
 
 | primitive (v)        | +able (adj)            
@@ -119,7 +119,7 @@
 | manage         | manageable
 | predict | predicatable
 
-### ment
+### [ment](#Suffixs)
 > verb + ment -> abstract noun
 
 | primitive (v)        | +ment (abstract noun)            
@@ -129,7 +129,7 @@
 | amuse (amusing:adj)         | amusement               
 | encourage (encouraging:adj)         | encouragement
 
-### ly
+### [ly](#Suffixs)
 > adj + ly -> adverb
 
 | primitive (adj)        | +ly (adv)            
@@ -137,7 +137,7 @@
 | slow           | slowly                
 | quick           | quickly               
 
-### irregular
+### [irregular](#Suffixs)
 > 不规则的变化
 
 | primitive         | irregular (abstract noun)            
