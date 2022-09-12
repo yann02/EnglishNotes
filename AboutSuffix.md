@@ -7,6 +7,7 @@
 - able
 - ment
 - ly
+- irregular
 
 ### ful & less
 - ful (positive form)
