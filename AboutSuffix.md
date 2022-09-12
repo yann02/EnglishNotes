@@ -3,7 +3,12 @@
 ## Suffixs
 - ful & less
 - tion & sion
+   - [tion](#tion)
+   - [sion](#sion)
 - ness & ance & ence
+   - [ness](#ness)
+   - [ance](#ance)
+   - [ence](#ence)
 - [able](#able)
 - [ment](#ment)
 - [ly](#ly)
