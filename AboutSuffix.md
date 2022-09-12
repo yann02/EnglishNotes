@@ -3,11 +3,11 @@
 ## Suffixs
 - ful & less
 - tion & sion
-- ness & ance & ence(#ness-&-ance-&-ence)
-- able(#able)
-- ment(#ment)
-- ly(#ly)
-- irregular(#irregular)
+- [ness & ance & ence](#ness-&-ance-&-ence)
+- [able](#able)
+- [ment](#ment)
+- [ly](#ly)
+- [irregular](#irregular)
 
 ### ful & less
 - ful (positive form)
