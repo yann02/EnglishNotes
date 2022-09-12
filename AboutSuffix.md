@@ -1,14 +1,10 @@
 # 关于后缀的单词
 
 ## Suffixs
-- ful
-- less
-- tion
-- sion
-- ness
+- ful & less
+- tion & sion
+- ness & ance & ence
 - able
-- ance
-- ence
 - ment
 - ly
 
