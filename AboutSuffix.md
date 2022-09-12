@@ -55,6 +55,7 @@
 | dedicate | dedication
 | innovate | innovation
 | represent | representation
+| compose   | composition
 
 #### [sion](#Suffixs)
 
