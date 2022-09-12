@@ -56,6 +56,7 @@
 | innovate | innovation
 | represent | representation
 | compose   | composition
+| inspect   | inspection
 
 #### [sion](#Suffixs)
 
