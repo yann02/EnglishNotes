@@ -54,6 +54,7 @@
 | cooperate | cooperation
 | dedicate | dedication
 | innovate | innovation
+| represent | representation
 
 #### [sion](#Suffixs)
 
