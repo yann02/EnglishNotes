@@ -25,4 +25,4 @@
 | vowel           | consonant               | 元音字母                 | 辅音字母                                              | 当一个动词以consonant-vowel-consonant结尾时，他的过去式除了在末尾添加-ed，动词原形的最后一个字母要写两次。如：stop -> stopped
 | more            | less                    | 更多                     | 更少                                                 | phrase：show more / show less
 | stateful        | stateless               | 有状态                   | 无状态                                               |
-| synonym         | antonym                 | 同义词                   | 反义词                                               |
+| synonym         | antonym                 | 同义词                   | 反义词                                               | homonym:同音异义词、同型异义词
