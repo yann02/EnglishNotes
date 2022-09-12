@@ -58,6 +58,7 @@
 | compose   | composition
 | inspect   | inspection
 | generate | generation
+| indicate | indication
 
 #### [sion](#Suffixs)
 
