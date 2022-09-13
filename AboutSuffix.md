@@ -59,6 +59,7 @@
 | inspect   | inspection
 | generate | generation
 | indicate | indication
+| prevent | prevention
 
 #### [sion](#Suffixs)
 
