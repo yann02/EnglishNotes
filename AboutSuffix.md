@@ -60,6 +60,7 @@
 | generate | generation
 | indicate | indication
 | prevent | prevention
+| introduce | introduction
 
 #### [sion](#Suffixs)
 
