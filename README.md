@@ -7,6 +7,7 @@
 - [About Prefix](AboutPrefix.md)
 - [About Suffix](AboutSuffix.md)
 - [Types of sentence](TypesOfSentence.md)
+- [常见的缩略词](常见的缩略词.md)
 
 ## The ways to learn english
 - [__7 Ways You Can Learn English Faster, According to Science__](https://www.fluentu.com/blog/english/how-to-learn-english-faster/)
