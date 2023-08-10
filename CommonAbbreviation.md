@@ -1,4 +1,4 @@
-# 常见的缩略词
+# Common Abbreviation
 
 | Word | Mean |
 | :--: | :--: |
