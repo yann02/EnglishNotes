@@ -28,6 +28,7 @@
 | stateful        | stateless               | 有状态                   | 无状态                                               |
 | synonym         | antonym                 | 同义词                   | 反义词                                               | homonym:同音异义词、同型异义词
 | abstract        | concrete                | 抽象的                   | 具体的                                               |
+| similar         | opposite                | 相似的                   | 相反的                                               |
 
 # others
 ![opposite words](images/common-opposite-words.png)
